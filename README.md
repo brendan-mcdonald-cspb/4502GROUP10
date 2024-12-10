@@ -20,8 +20,6 @@ Key trends in the credit card and fraud landscape:
 - **Remote fraud** increased, accounting for $4.57 billion in 2016 and growing since then [2].
 - In 2016, the fraud rate for credit cards was 14.9 basis points, meaning for every $10,000 spent, $1.49 was fraudulent [2].
 
-## Motivation
-
 This work seeks to determine if fraudulent transactions can be predicted before execution using a limited set of data points about the customer. By reducing the frequency of fraudulent transactions:
 
 - **Costs** associated with administering bank accounts and facilitating transactions are reduced, benefiting both corporations and consumers.
@@ -29,7 +27,7 @@ This work seeks to determine if fraudulent transactions can be predicted before 
 
 ---
 
-**References:**
+# Links to Supporting Materials
 
-[1] Non-cash payment data source  
-[2] Fraud data trends source
+## Video: https://github.com/brendan-mcdonald-cspb/4502GROUP10/blob/main/10_Credit_Fraud_Part6_Video.mp4
+## Paper: 
