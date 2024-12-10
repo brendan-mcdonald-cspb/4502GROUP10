@@ -14,11 +14,11 @@ The credit card industry processes billions of dollars in transactions daily, ma
 
 Key trends in the credit card and fraud landscape:
 
-- **Non-cash payments** increased at a rate of 9.5% per year since 2018, with payments value reaching $128.51 trillion in 2021 [1].
-- **Card payments value** grew 10% annually since 2018, reaching $9.43 trillion in 2021 [1].
-- **In-person card fraud** decreased due to the adoption of embedded chips in cards [2].
-- **Remote fraud** increased, accounting for $4.57 billion in 2016 and growing since then [2].
-- In 2016, the fraud rate for credit cards was 14.9 basis points, meaning for every $10,000 spent, $1.49 was fraudulent [2].
+- **Non-cash payments** increased at a rate of 9.5% per year since 2018, with payments value reaching $128.51 trillion in 2021.
+- **Card payments value** grew 10% annually since 2018, reaching $9.43 trillion in 2021.
+- **In-person card fraud** decreased due to the adoption of embedded chips in cards.
+- **Remote fraud** increased, accounting for $4.57 billion in 2016 and growing since then.
+- In 2016, the fraud rate for credit cards was 14.9 basis points, meaning for every $10,000 spent, $1.49 was fraudulent.
 
 This work seeks to determine if fraudulent transactions can be predicted before execution using a limited set of data points about the customer. By reducing the frequency of fraudulent transactions:
 
